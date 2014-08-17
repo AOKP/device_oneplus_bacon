@@ -1,0 +1,50 @@
+<!--
+  ~ Copyright (C) 2014 Arnav Gupta, AOKP
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~  Unless required by applicable law or agreed to in writing, software
+  ~  distributed under the License is distributed on an "AS IS" BASIS,
+  ~  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~  See the License for the specific language governing permissions and
+  ~  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">OneSettings</string>
+    <string name="title_activity_one_settings">One Settings</string>
+
+    <string name="defaults_button">Ripristina predefinito</string>
+
+    <!-- Strings related to Haptic -->
+    <string name="title_haptic">Haptic</string>
+    <!-- VibratorTuning -->
+    <string name="vibrator_title">Vibrazione</string>
+    <string name="vibrator_tuning_title">Intensità vibrazione</string>
+    <string name="vibrator_tuning_summary_head">Regola l\'intensità della vibrazione</string>
+
+    <!-- Touchscreen -->
+    <string name="title_touchscreen">Touchscreen</string>
+    <!-- Doubletap On -->
+    <string name="touchscreen_double_tap_gesture_title">Risveglia dispositivo</string>
+    <string name="touchscreen_double_tap_gesture_summary">Doppio tap per risvegliare il dispositivo</string>
+    <string name="touchscreen_camera_gesture_title">FotoCamera</string>
+    <string name="touchscreen_camera_gesture_summary">Disegna un cerchio per attivare la fotocamera</string>
+    <string name="touchscreen_music_gesture_title">Musica</string>
+    <string name="touchscreen_flashlight_gesture_title">Torcia</string>
+    <string name="touchscreen_flashlight_gesture_summary">Disegna una \'V\' per accendere la torcia</string>
+    <string name="touchscreen_music_gesture_summary">Usa le gestures per controllare la riproduzione musicale \n
+    • Due dita verticalmente per mettere in play/pausa\n
+    • Disegna una freccia a sinistra per traccia precedente\n
+    • Disegna una freccia a destra per traccia successiva</string>
+
+    <!-- Other -->
+    <string name="title_other">Altro</string>
+    <string name="fast_charge_title">Fast charge</string>
+    <string name="fast_charge_summary">Consenti la carica rapida del dispositivo finché connesso tramite USB</string>
+
+</resources>
