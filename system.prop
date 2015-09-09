@@ -92,3 +92,9 @@ persist.timed.enable=true
 
 # Wifi
 wifi.interface=wlan0
+
+# cabl is handled by the panel
+ro.qualcomm.cabl=0
+
+#AOKP Device Maintainers
+ro.aokp.maintainer=BlackScorpion3
