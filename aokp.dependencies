@@ -28,11 +28,5 @@
     "repository": "proprietary_vendor_oppo",
     "target_path": "vendor/oppo",
     "revision": "cm-13.0"
-  },
-  {
-    "remote": "cm",
-    "repository": "Cyanogenmod/android_vendor_qcom_opensource_dataservices",
-    "target_path": "vendor/qcom/opensource/dataservices",
-    "revision": "cm-13.0"
   }
 ]
