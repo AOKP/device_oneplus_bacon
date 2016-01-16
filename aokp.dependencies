@@ -18,7 +18,7 @@
     "revision": "cm-13.0"
   },
   {
-    "remote": "tm",
+    "remote": "td",
     "repository": "proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "revision": "cm-13.0"
