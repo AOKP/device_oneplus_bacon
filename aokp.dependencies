@@ -1,9 +1,9 @@
 [
   {
-    "remote": "cm",
-    "repository": "LineageOS/android_device_oppo_common",
+    "remote": "aokp",
+    "repository": "AOKP/android_device_oppo_common",
     "target_path": "device/oppo/common",
-    "revision": "cm-14.1"
+    "revision": "nougat"
   },
   {
     "remote": "cm",
